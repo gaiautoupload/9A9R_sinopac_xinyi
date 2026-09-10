@@ -41,7 +41,93 @@
       "net_vol_1": 1900.0,
       "net_vol_5": 223000.0,
       "net_vol_10": 454200.0,
-      "net_vol_20": 454200.0
+      "net_vol_20": 454200.0,
+      "position_start_date": "2026-08-28",
+      "significant_events": [
+        {
+          "date": "2026-08-28",
+          "action": "重大加碼",
+          "net_amount": 51891650.0,
+          "close": 395.0,
+          "forward_return_1": -0.04303797468354431,
+          "forward_return_5": 0.02405063291139231,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-01",
+          "action": "重大加碼",
+          "net_amount": 11516500.0,
+          "close": 358.0,
+          "forward_return_1": 0.009776536312849249,
+          "forward_return_5": 0.3966480446927374,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-02",
+          "action": "重大加碼",
+          "net_amount": 11576500.0,
+          "close": 361.5,
+          "forward_return_1": 0.044260027662517354,
+          "forward_return_5": 0.582295988934993,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-03",
+          "action": "重大加碼",
+          "net_amount": 10407500.0,
+          "close": 377.5,
+          "forward_return_1": 0.07152317880794712,
+          "forward_return_5": 0.44105960264900657,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-04",
+          "action": "重大加碼",
+          "net_amount": 20665500.0,
+          "close": 404.5,
+          "forward_return_1": 0.017305315203955507,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-07",
+          "action": "重大加碼",
+          "net_amount": 4949000.0,
+          "close": 411.5,
+          "forward_return_1": 0.21506682867557725,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-08",
+          "action": "重大加碼",
+          "net_amount": 27113450.0,
+          "close": 500.0,
+          "forward_return_1": 0.1439999999999999,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-09",
+          "action": "重大加碼",
+          "net_amount": 55585300.0,
+          "close": 572.0,
+          "forward_return_1": -0.04895104895104896,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        }
+      ],
+      "impact_sample_count": 4,
+      "impact_hit_rate": 1.0,
+      "impact_label": "高"
     },
     {
       "stock_id": "7856",
@@ -67,7 +153,93 @@
       "net_vol_1": -7950.0,
       "net_vol_5": -33947.0,
       "net_vol_10": -54066.0,
-      "net_vol_20": -49536.0
+      "net_vol_20": -49536.0,
+      "position_start_date": "2026-01-07",
+      "significant_events": [
+        {
+          "date": "2026-08-28",
+          "action": "重大減碼",
+          "net_amount": -27319980.0,
+          "close": 5195.0,
+          "forward_return_1": -0.05582290664100098,
+          "forward_return_5": -0.07218479307025982,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-01",
+          "action": "重大減碼",
+          "net_amount": -15567000.0,
+          "close": 5205.0,
+          "forward_return_1": -0.029779058597502406,
+          "forward_return_5": -0.09510086455331412,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-03",
+          "action": "重大減碼",
+          "net_amount": -57500000.0,
+          "close": 4520.0,
+          "forward_return_1": 0.0663716814159292,
+          "forward_return_5": 0.1581858407079646,
+          "forward_return_10": null,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-09-04",
+          "action": "重大減碼",
+          "net_amount": -14110185.0,
+          "close": 4820.0,
+          "forward_return_1": -0.024896265560165998,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-07",
+          "action": "重大減碼",
+          "net_amount": -24061970.0,
+          "close": 4700.0,
+          "forward_return_1": 0.0021276595744681437,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-08",
+          "action": "重大減碼",
+          "net_amount": -56550700.0,
+          "close": 4710.0,
+          "forward_return_1": 0.03715498938428885,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-09",
+          "action": "重大減碼",
+          "net_amount": -28573600.0,
+          "close": 4885.0,
+          "forward_return_1": 0.07164790174002045,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-10",
+          "action": "重大減碼",
+          "net_amount": -40390000.0,
+          "close": 5235.0,
+          "forward_return_1": null,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        }
+      ],
+      "impact_sample_count": 54,
+      "impact_hit_rate": 0.5,
+      "impact_label": "中"
     },
     {
       "stock_id": "6738",
@@ -93,7 +265,93 @@
       "net_vol_1": 26000.0,
       "net_vol_5": 60100.0,
       "net_vol_10": 395100.0,
-      "net_vol_20": -26900.0
+      "net_vol_20": -26900.0,
+      "position_start_date": "2020-01-02",
+      "significant_events": [
+        {
+          "date": "2026-08-06",
+          "action": "重大加碼",
+          "net_amount": 5257800.0,
+          "close": 78.0,
+          "forward_return_1": -0.0064102564102563875,
+          "forward_return_5": 0.0,
+          "forward_return_10": 0.012820512820512775,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-14",
+          "action": "重大減碼",
+          "net_amount": -15733600.0,
+          "close": 79.0,
+          "forward_return_1": 0.0025316455696202667,
+          "forward_return_5": 0.0,
+          "forward_return_10": 0.0037974683544304,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-17",
+          "action": "重大減碼",
+          "net_amount": -5909000.000000001,
+          "close": 79.2,
+          "forward_return_1": 0.0,
+          "forward_return_5": -0.008838383838383868,
+          "forward_return_10": -0.002525252525252597,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-20",
+          "action": "重大減碼",
+          "net_amount": -22869900.0,
+          "close": 79.0,
+          "forward_return_1": 0.0,
+          "forward_return_5": 0.01645569620253151,
+          "forward_return_10": 0.008860759493670933,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-24",
+          "action": "重大加碼",
+          "net_amount": 5164600.0,
+          "close": 78.5,
+          "forward_return_1": 0.002547770700636942,
+          "forward_return_5": 0.006369426751592355,
+          "forward_return_10": 0.016560509554140124,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-26",
+          "action": "重大加碼",
+          "net_amount": 6312900.0,
+          "close": 79.4,
+          "forward_return_1": 0.011335012594458238,
+          "forward_return_5": 0.005037783375314797,
+          "forward_return_10": -0.0025188916876575096,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-31",
+          "action": "重大加碼",
+          "net_amount": 13222100.0,
+          "close": 79.0,
+          "forward_return_1": 0.0012658227848101333,
+          "forward_return_5": 0.010126582278481067,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-02",
+          "action": "重大加碼",
+          "net_amount": 9093800.0,
+          "close": 79.8,
+          "forward_return_1": -0.0012531328320801727,
+          "forward_return_5": -0.007518796992481147,
+          "forward_return_10": null,
+          "direction_aligned": false
+        }
+      ],
+      "impact_sample_count": 149,
+      "impact_hit_rate": 0.348993288590604,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "6849",
@@ -119,7 +377,93 @@
       "net_vol_1": 192950.0,
       "net_vol_5": 276950.0,
       "net_vol_10": 276950.0,
-      "net_vol_20": 276950.0
+      "net_vol_20": 276950.0,
+      "position_start_date": "2026-01-26",
+      "significant_events": [
+        {
+          "date": "2026-03-30",
+          "action": "重大減碼",
+          "net_amount": -4265000.0,
+          "close": 132.5,
+          "forward_return_1": -0.08301886792452828,
+          "forward_return_5": -0.01132075471698113,
+          "forward_return_10": 0.16603773584905657,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-03-31",
+          "action": "重大減碼",
+          "net_amount": -5990100.0,
+          "close": 121.5,
+          "forward_return_1": 0.06584362139917688,
+          "forward_return_5": 0.07407407407407418,
+          "forward_return_10": 0.23868312757201648,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-04-07",
+          "action": "重大減碼",
+          "net_amount": -3780100.0,
+          "close": 114.5,
+          "forward_return_1": 0.14410480349344978,
+          "forward_return_5": 0.40174672489082974,
+          "forward_return_10": 1.1353711790393013,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-05-21",
+          "action": "重大減碼",
+          "net_amount": -6019000.0,
+          "close": 201.0,
+          "forward_return_1": 0.11194029850746268,
+          "forward_return_5": 0.0671641791044777,
+          "forward_return_10": 0.04726368159203975,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-05-22",
+          "action": "重大減碼",
+          "net_amount": -3953000.0,
+          "close": 223.5,
+          "forward_return_1": 0.006711409395973256,
+          "forward_return_5": -0.07158836689038028,
+          "forward_return_10": -0.10961968680089484,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-06-29",
+          "action": "重大減碼",
+          "net_amount": -12852500.0,
+          "close": 132.5,
+          "forward_return_1": 0.04528301886792452,
+          "forward_return_5": 0.2867924528301886,
+          "forward_return_10": 0.13207547169811318,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-09-09",
+          "action": "重大加碼",
+          "net_amount": 15898500.0,
+          "close": 194.0,
+          "forward_return_1": -0.015463917525773141,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-10",
+          "action": "重大加碼",
+          "net_amount": 38596275.0,
+          "close": 191.0,
+          "forward_return_1": null,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        }
+      ],
+      "impact_sample_count": 12,
+      "impact_hit_rate": 0.4166666666666667,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "4573",
@@ -145,7 +489,93 @@
       "net_vol_1": 0.0,
       "net_vol_5": -1872.0,
       "net_vol_10": 988.0,
-      "net_vol_20": 59208.0
+      "net_vol_20": 59208.0,
+      "position_start_date": "2025-03-24",
+      "significant_events": [
+        {
+          "date": "2026-08-18",
+          "action": "重大加碼",
+          "net_amount": 8435000.0,
+          "close": 461.0,
+          "forward_return_1": 0.09978308026030369,
+          "forward_return_5": 0.08459869848156187,
+          "forward_return_10": 0.3492407809110629,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-19",
+          "action": "重大加碼",
+          "net_amount": 14395500.0,
+          "close": 507.0,
+          "forward_return_1": -0.053254437869822535,
+          "forward_return_5": 0.04536489151873768,
+          "forward_return_10": 0.3057199211045365,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-21",
+          "action": "重大減碼",
+          "net_amount": -4536000.0,
+          "close": 506.0,
+          "forward_return_1": -0.03260869565217395,
+          "forward_return_5": 0.045454545454545414,
+          "forward_return_10": 0.18774703557312256,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-24",
+          "action": "重大減碼",
+          "net_amount": -5606000.0,
+          "close": 489.5,
+          "forward_return_1": 0.021450459652706755,
+          "forward_return_5": 0.22165474974463728,
+          "forward_return_10": 0.3176710929519919,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-25",
+          "action": "重大減碼",
+          "net_amount": -24244500.0,
+          "close": 500.0,
+          "forward_return_1": 0.06000000000000005,
+          "forward_return_5": 0.244,
+          "forward_return_10": 0.278,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-27",
+          "action": "重大減碼",
+          "net_amount": -10120820.0,
+          "close": 524.0,
+          "forward_return_1": 0.009541984732824416,
+          "forward_return_5": 0.21564885496183206,
+          "forward_return_10": 0.18511450381679384,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-28",
+          "action": "重大減碼",
+          "net_amount": -7696000.0,
+          "close": 529.0,
+          "forward_return_1": 0.13043478260869557,
+          "forward_return_5": 0.13610586011342152,
+          "forward_return_10": null,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-09-03",
+          "action": "重大加碼",
+          "net_amount": 11865540.0,
+          "close": 637.0,
+          "forward_return_1": -0.05651491365777084,
+          "forward_return_5": -0.025117739403453743,
+          "forward_return_10": null,
+          "direction_aligned": false
+        }
+      ],
+      "impact_sample_count": 36,
+      "impact_hit_rate": 0.3888888888888889,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7686",
@@ -171,7 +601,12 @@
       "net_vol_1": 2000.0,
       "net_vol_5": -36100.0,
       "net_vol_10": -60900.0,
-      "net_vol_20": -60900.0
+      "net_vol_20": -60900.0,
+      "position_start_date": "2026-09-09",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "6696",
@@ -197,7 +632,12 @@
       "net_vol_1": 391.0,
       "net_vol_5": -98378.0,
       "net_vol_10": -139354.0,
-      "net_vol_20": 7875.0
+      "net_vol_20": 7875.0,
+      "position_start_date": "2026-09-10",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "6696",
@@ -223,7 +663,12 @@
       "net_vol_1": 391.0,
       "net_vol_5": -98378.0,
       "net_vol_10": -139354.0,
-      "net_vol_20": -139354.0
+      "net_vol_20": -139354.0,
+      "position_start_date": "2026-09-10",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "3595",
@@ -249,7 +694,93 @@
       "net_vol_1": -2000.0,
       "net_vol_5": -5084.0,
       "net_vol_10": -14040.0,
-      "net_vol_20": -1026.0
+      "net_vol_20": -1026.0,
+      "position_start_date": "2025-03-17",
+      "significant_events": [
+        {
+          "date": "2026-08-21",
+          "action": "重大加碼",
+          "net_amount": 12585850.0,
+          "close": 1400.0,
+          "forward_return_1": -0.0535714285714286,
+          "forward_return_5": 0.16428571428571437,
+          "forward_return_10": 0.2142857142857142,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-27",
+          "action": "重大加碼",
+          "net_amount": 3569320.0,
+          "close": 1280.0,
+          "forward_return_1": 0.2734375,
+          "forward_return_5": 0.3515625,
+          "forward_return_10": 0.140625,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-28",
+          "action": "重大加碼",
+          "net_amount": 11190645.0,
+          "close": 1630.0,
+          "forward_return_1": 0.10122699386503076,
+          "forward_return_5": 0.042944785276073594,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-08-31",
+          "action": "重大減碼",
+          "net_amount": -7326170.0,
+          "close": 1795.0,
+          "forward_return_1": -0.058495821727019504,
+          "forward_return_5": -0.0807799442896936,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-01",
+          "action": "重大減碼",
+          "net_amount": -4870000.0,
+          "close": 1690.0,
+          "forward_return_1": 0.050295857988165604,
+          "forward_return_5": -0.08875739644970415,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-03",
+          "action": "重大減碼",
+          "net_amount": -10561260.0,
+          "close": 1730.0,
+          "forward_return_1": -0.017341040462427793,
+          "forward_return_5": -0.1560693641618497,
+          "forward_return_10": null,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-09-04",
+          "action": "重大減碼",
+          "net_amount": -3177225.0,
+          "close": 1700.0,
+          "forward_return_1": -0.02941176470588236,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        },
+        {
+          "date": "2026-09-10",
+          "action": "重大減碼",
+          "net_amount": -3010000.0,
+          "close": 1460.0,
+          "forward_return_1": null,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        }
+      ],
+      "impact_sample_count": 77,
+      "impact_hit_rate": 0.4025974025974026,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7669",
@@ -275,7 +806,93 @@
       "net_vol_1": 0.0,
       "net_vol_5": 10000.0,
       "net_vol_10": 10000.0,
-      "net_vol_20": 10000.0
+      "net_vol_20": 10000.0,
+      "position_start_date": "2025-11-27",
+      "significant_events": [
+        {
+          "date": "2026-04-23",
+          "action": "重大減碼",
+          "net_amount": -4429000.0,
+          "close": 995.0,
+          "forward_return_1": -0.08743718592964822,
+          "forward_return_5": -0.12361809045226135,
+          "forward_return_10": -0.19195979899497484,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-05-11",
+          "action": "重大加碼",
+          "net_amount": 7820000.0,
+          "close": 773.0,
+          "forward_return_1": 0.005174644243208348,
+          "forward_return_5": -0.010349288486416586,
+          "forward_return_10": -0.02975420439844756,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-06-02",
+          "action": "重大加碼",
+          "net_amount": 4448117.0,
+          "close": 584.0,
+          "forward_return_1": 0.23116438356164393,
+          "forward_return_5": 0.14212328767123283,
+          "forward_return_10": 0.16952054794520555,
+          "direction_aligned": true
+        },
+        {
+          "date": "2026-06-12",
+          "action": "重大減碼",
+          "net_amount": -12846000.0,
+          "close": 633.0,
+          "forward_return_1": 0.056872037914691864,
+          "forward_return_5": 0.18957345971563977,
+          "forward_return_10": 0.08846761453396534,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-06-30",
+          "action": "重大加碼",
+          "net_amount": 7235000.0,
+          "close": 726.0,
+          "forward_return_1": -0.0055096418732781816,
+          "forward_return_5": 0.045454545454545414,
+          "forward_return_10": -0.026170798898071612,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-11",
+          "action": "重大加碼",
+          "net_amount": 6175000.0,
+          "close": 620.0,
+          "forward_return_1": 0.0,
+          "forward_return_5": -0.024193548387096753,
+          "forward_return_10": -0.032258064516129004,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-08-12",
+          "action": "重大加碼",
+          "net_amount": 6280000.0,
+          "close": 620.0,
+          "forward_return_1": 0.006451612903225712,
+          "forward_return_5": -0.04354838709677422,
+          "forward_return_10": -0.02580645161290318,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-09-08",
+          "action": "重大加碼",
+          "net_amount": 7020000.0,
+          "close": 699.0,
+          "forward_return_1": -0.012875536480686733,
+          "forward_return_5": null,
+          "forward_return_10": null,
+          "direction_aligned": null
+        }
+      ],
+      "impact_sample_count": 32,
+      "impact_hit_rate": 0.53125,
+      "impact_label": "中"
     },
     {
       "stock_id": "6990",
@@ -301,7 +918,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 38000.0
+      "net_vol_20": 38000.0,
+      "position_start_date": "2026-08-24",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7729",
@@ -327,7 +949,12 @@
       "net_vol_1": -3930.0,
       "net_vol_5": 41000.0,
       "net_vol_10": 47000.0,
-      "net_vol_20": 50500.0
+      "net_vol_20": 50500.0,
+      "position_start_date": "2026-07-09",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7926",
@@ -353,7 +980,12 @@
       "net_vol_1": 1000.0,
       "net_vol_5": 6000.0,
       "net_vol_10": 7000.0,
-      "net_vol_20": 7000.0
+      "net_vol_20": 7000.0,
+      "position_start_date": "2026-06-22",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7942",
@@ -379,7 +1011,23 @@
       "net_vol_1": 3000.0,
       "net_vol_5": 5000.0,
       "net_vol_10": 6000.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2026-08-06",
+      "significant_events": [
+        {
+          "date": "2026-08-06",
+          "action": "重大加碼",
+          "net_amount": 4080000.0,
+          "close": 351.0,
+          "forward_return_1": 0.10826210826210825,
+          "forward_return_5": 0.09401709401709413,
+          "forward_return_10": 0.005698005698005604,
+          "direction_aligned": true
+        }
+      ],
+      "impact_sample_count": 1,
+      "impact_hit_rate": 1.0,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "6610",
@@ -405,7 +1053,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 15000.0,
-      "net_vol_20": 39000.0
+      "net_vol_20": 39000.0,
+      "position_start_date": "2026-08-17",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7909",
@@ -431,7 +1084,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 2000.0,
       "net_vol_10": 1000.0,
-      "net_vol_20": 1000.0
+      "net_vol_20": 1000.0,
+      "position_start_date": "2026-05-26",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "3644",
@@ -457,7 +1115,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 3000.0
+      "net_vol_20": 3000.0,
+      "position_start_date": "2026-06-25",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7876",
@@ -483,7 +1146,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 21000.0
+      "net_vol_20": 21000.0,
+      "position_start_date": "2026-01-05",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7924",
@@ -509,7 +1177,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 1000.0,
       "net_vol_10": 0.0,
-      "net_vol_20": -1.0
+      "net_vol_20": -1.0,
+      "position_start_date": "2026-09-09",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7808",
@@ -535,7 +1208,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 6000.0,
       "net_vol_10": 6000.0,
-      "net_vol_20": 6000.0
+      "net_vol_20": 6000.0,
+      "position_start_date": "2025-10-13",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7930",
@@ -561,7 +1239,12 @@
       "net_vol_1": 1000.0,
       "net_vol_5": 1000.0,
       "net_vol_10": 1300.0,
-      "net_vol_20": -700.0
+      "net_vol_20": -700.0,
+      "position_start_date": "2026-08-31",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "6940",
@@ -587,7 +1270,53 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 300.0
+      "net_vol_20": 300.0,
+      "position_start_date": "2023-05-29",
+      "significant_events": [
+        {
+          "date": "2024-07-22",
+          "action": "重大加碼",
+          "net_amount": 3848450.0,
+          "close": 31.85,
+          "forward_return_1": 0.03610675039246458,
+          "forward_return_5": -0.02668759811616961,
+          "forward_return_10": -0.18995290423861855,
+          "direction_aligned": false
+        },
+        {
+          "date": "2024-07-23",
+          "action": "重大加碼",
+          "net_amount": 4317300.0,
+          "close": 33.0,
+          "forward_return_1": -0.030303030303030276,
+          "forward_return_5": -0.051515151515151514,
+          "forward_return_10": -0.1045454545454545,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-01-28",
+          "action": "重大加碼",
+          "net_amount": 5780600.0,
+          "close": 27.25,
+          "forward_return_1": -0.0055045871559632475,
+          "forward_return_5": -0.023853211009174258,
+          "forward_return_10": -0.12110091743119267,
+          "direction_aligned": false
+        },
+        {
+          "date": "2026-01-29",
+          "action": "重大加碼",
+          "net_amount": 5408000.0,
+          "close": 27.1,
+          "forward_return_1": -0.011070110701107083,
+          "forward_return_5": -0.027675276752767486,
+          "forward_return_10": -0.12915129151291516,
+          "direction_aligned": false
+        }
+      ],
+      "impact_sample_count": 4,
+      "impact_hit_rate": 0.0,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "8098",
@@ -613,7 +1342,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2026-03-18",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "3633",
@@ -639,7 +1373,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2021-11-02",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7843",
@@ -665,7 +1404,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2026-05-04",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7886",
@@ -691,7 +1435,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2026-06-01",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7724",
@@ -717,7 +1466,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2025-12-08",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7773",
@@ -743,7 +1497,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2024-09-30",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "7801",
@@ -769,7 +1528,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2026-03-23",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     },
     {
       "stock_id": "2255",
@@ -795,7 +1559,12 @@
       "net_vol_1": 0.0,
       "net_vol_5": 0.0,
       "net_vol_10": 0.0,
-      "net_vol_20": 0.0
+      "net_vol_20": 0.0,
+      "position_start_date": "2023-08-22",
+      "significant_events": [],
+      "impact_sample_count": 0,
+      "impact_hit_rate": null,
+      "impact_label": "低／待觀察"
     }
   ],
   "flow_windows": {
